@@ -6,6 +6,8 @@ Dependency-free Linux tools for the Deftun MSRX6 magstripe reader/writer
 Works over **USB** (raw HID, `/dev/hidrawN`) or **Bluetooth** (SPP / RFCOMM channel 1).
 USB is tried first, then the first paired Bluetooth device named `MSRX6*`.
 
+![msrx6_gui.py connected over Bluetooth](docs/gui.png)
+
 ## Usage
 
 ```sh
