@@ -44,3 +44,11 @@ The CSR8510 dongle shipped with the reader is optional if the PC has built-in Bl
 - Tested: firmware `REVT7.40`, model `3S` (3-track).
 
 `tools/bt_probe.py <MAC>` is a minimal RFCOMM connectivity check (`ESC e` / `ESC v` / `ESC t`).
+
+## License
+
+Copyright (C) 2026 Nix
+
+This program is free software: you can redistribute it and/or modify it under the terms of
+the GNU General Public License as published by the Free Software Foundation, either version 3
+of the License, or (at your option) any later version. See [LICENSE](LICENSE).
